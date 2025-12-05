@@ -1,13 +1,14 @@
-package com.jatin.sprinboot;
+package com.jatin.taskmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SprinbootApplication {
+public class TaskManager {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SprinbootApplication.class, args);
+
+		SpringApplication.run(TaskManager.class, args);
 	}
 
 }
