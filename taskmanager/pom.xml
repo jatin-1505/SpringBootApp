@@ -12,8 +12,8 @@
 	<artifactId>taskmanager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>sprinboot</name>
-	<description>Demo project for Spring Boot</description>
+	<name>springboot</name>
+	<description>Task Manager Application</description>
 	<url/>
 	<licenses>
 		<license/>
