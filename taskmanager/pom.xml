@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>springboot</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Task Manager Application</description>
 	<url/>
 	<licenses>
 		<license/>
